@@ -66,3 +66,27 @@ client.on('messageCreate', async message => {
 });
 
 client.login(process.env.DISCORD_TOKEN);
+
+/*
+{
+  "name": "martha-ai-bot",
+  "version": "1.0.0",
+  "description": "Discord AI Voice Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "openai": "^4.0.0",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.11"
+  }
+}
+*/
+
+node_modules/
+.env
+.vscode/
