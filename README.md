@@ -1,3 +1,2 @@
 # A.I.-Bot
-i do stuff
-see
+Working on a Chatgpt bot for discord
