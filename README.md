@@ -1,2 +1,3 @@
 # A.I.-Bot
-It works fine for me
+Working on a Chatgpt bot for discord
+tyjxfghsdfgjsdfhdtjeds
